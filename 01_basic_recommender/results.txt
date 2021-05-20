@@ -1,0 +1,6 @@
+Rank: 100
+Alpha: 20
+Lambda: 0
+Max Iterations: 20
+Validation mAP: 0.06490849033941232
+Test mAP: 0.0650800544934321

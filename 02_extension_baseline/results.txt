@@ -1,0 +1,4 @@
+Baseline Model:
+
+Validation mAP: 0.018770027524465577
+Test mAP: 0.019896559152028752
